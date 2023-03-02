@@ -9,7 +9,7 @@
 
 body{
     background-color: hsl(212, 45%, 89%);
-    height: 600px;
+    height: 100vh;
     position: relative;
     font-family: 'Outfit', sans-serif;
 }
